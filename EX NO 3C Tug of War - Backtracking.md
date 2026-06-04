@@ -28,8 +28,8 @@ Constraints:
 ## Program:
 ```
 Program to implement Reverse a String
-Developed by: Gnanendran N
-Register Number: 212223240037
+Developed by: Meyyappan T
+Register Number: 212223240086
 ```
 ```java
 import java.util.Scanner;
